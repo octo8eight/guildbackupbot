@@ -21,7 +21,7 @@ Go to the project directory
   cd my-project
 ```
 
-Create config.json with
+Change config.json
 
 ```json
 {
@@ -46,3 +46,7 @@ And finally start bot
 ```bash
   npm start
 ```
+
+## Showcase
+
+<img src="./showcase.gif" />
